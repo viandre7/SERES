@@ -1,0 +1,35 @@
+/* INICIA CSS BOTONES*/
+.btn-degradado-azulgris{
+    background: linear-gradient(to right,
+    /* COLOR DEGRADADO SOLO CON 2 COLORES AZUL - GRIS*/
+    /* rgba(29, 69, 155,1)50%,
+    rgba(155, 155, 155,1)100% */
+
+     /* COLOR DEGRADADO SOLO CON 2 COLORES GRIS - AZUL*/
+     /* rgba(155, 155, 155,1)0%,
+     rgba(29, 69, 155,1)70% */
+
+    /* DEGRADADO CON LOS 3 COLORES */
+    rgba(29, 69, 155,1)40%,
+    rgba(155, 155, 155,1)75%,
+    rgba(255,255,255,1)100%
+    )!important;  
+    color:black;
+    border-color: rgba 169,204,73 ;
+    font-weight: bold;
+}
+
+
+/* INICIA CSS BOTONES*/
+.btn-degradado-rojo{
+    background: linear-gradient(to right,
+    
+    /* DEGRADADO CON LOS 3 COLORES */
+    rgba(255, 0, 0,1)40%,
+    rgb(235, 95, 95)75%,
+    rgba(255,255,255,1)100%
+    )!important; 
+    color:black;
+    border-color: rgba 169,204,73 ;
+    font-weight: bold;
+}

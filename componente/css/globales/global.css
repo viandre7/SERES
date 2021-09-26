@@ -1,0 +1,8 @@
+.control-shadow{
+    box-shadow: 2px 2px 2px black;
+}
+
+.hero{
+    background-position: center;
+    background-size: cover;
+}
